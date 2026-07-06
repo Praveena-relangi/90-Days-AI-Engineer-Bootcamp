@@ -1,0 +1,13 @@
+name = input("Student Name: ")
+age = input("Student Age: ")
+city = input("Student City: ")
+qualification = input("Student Qualification: ")
+dream_job = input("Student Dream Job: ")
+
+print("===== STUDENT PROFILE =====")
+print("Name: ", name)
+print("Age: ", age)
+print("City: ", city)
+print("Qualification: ", qualification)
+print("Dream Job: ", dream_job)
+print("===========================")

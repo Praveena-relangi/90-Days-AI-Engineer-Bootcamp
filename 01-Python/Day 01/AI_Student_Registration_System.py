@@ -1,0 +1,15 @@
+# Mini Project: AI Student Registration System
+name = input("Enter your name: ")
+email = input("Enter your email: ")
+phone = input("Enter your phone number: ")
+college = input("Enter your college name: ")
+course = input("Enter your course: ")
+
+print("========== AI BOOTCAMP REGISTRATION ==========")
+print("Name: ", name)
+print("Email: ", email)
+print("Phone: ", phone)
+print("College: ", college)
+print("Course: ", course)
+print("Welcome to the AI Bootcamp! We are excited to have you on board.")
+print("===============================================")
